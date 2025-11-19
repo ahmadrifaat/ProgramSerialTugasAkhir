@@ -1,7 +1,7 @@
 //Prompt Gemini
 //Tolong ubah nama-nama variabel agar lebih readable dan format konsisten
 //Jangan ubah logika program sama sekali
-//bedakan format konstanta dan variabel tiap segmen
+//bedakan format konstanta dan variabel tiap segmen.
 
 #define _USE_MATH_DEFINES
 #include <GL/glew.h>
